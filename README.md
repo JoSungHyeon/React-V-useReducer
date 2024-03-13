@@ -1,5 +1,3 @@
-# React + Vite TodoList
+# React + Vite useReducer
 
-1. UI를 구성하는 컴포넌트를 만든다.
-2. 각 컴포넌트의 CSS파일을 만들어 스타일을 작성한다.
-3. ...다시 코드 리뷰하기 ㅜㅜ
+1. useReducer
